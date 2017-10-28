@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1508775471 source:f:\project\lms\main.cpp
+	"\Project\LMS\signin.h"
+	"\Project\LMS\createrecord.h"
+
+1508775615 source:f:\project\lms\signin.cpp
+	"signin.h"
+
+1508772455 f:\project\lms\signin.h
+	<iostream>
+	<string.h>
+
+1508774414 f:\project\lms\createrecord.h
+
